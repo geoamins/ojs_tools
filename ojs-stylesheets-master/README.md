@@ -1,5 +1,3 @@
-# ojs_tools
- 
 # OJS Stylesheets
 
 This repo contains the custom stylesheets I've written (or taken part in writing) for various academic journals on [@PKP's](https://github.com/pkp) [Open Journal Systems](https://github.com/pkp/ojs) (OJS) platform. These stylesheets are built on top of the OJS core code, and either the Nusantara2columnsSteelBlue theme by themeOJS or [Health Sciences](https://github.com/pkp/healthSciences) by PKP.
